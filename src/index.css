@@ -1,0 +1,31 @@
+.homepage-text{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 100px;
+  text-align: center;
+  margin-top: 250px;
+}
+.nav-bar{
+  height: 50px;
+  width: 100%;
+  background-color: red;
+}
+.navbar>*{
+  border-radius: 30px;
+}
+.home-button-signin::onhover{
+  background-color: blue;
+}
+*{
+  margin:0px;
+}
+
+#quote-box{
+  height:500px;
+  width:500px;
+  background-color:blue;
+}
+#text{
+  height:200px;
+  width:400px;
+  background-color:red;
+}
